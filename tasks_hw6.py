@@ -10,7 +10,7 @@ Original file is located at
 # Commented out IPython magic to ensure Python compatibility.
 import networkx as nx
 import matplotlib.pyplot as plt
-# %matplotlib inline
+
 
 line1 = [
     "Академмістечко", "Житомирська", "Святошин", "Нивки",
